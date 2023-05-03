@@ -12,6 +12,7 @@ import com.rbt.pmt.dao.ProjectRepository;
 import com.rbt.pmt.entities.Employee;
 import com.rbt.pmt.entities.Project;
 
+//Home Controller
 @Controller
 public class HomeController {
 	
