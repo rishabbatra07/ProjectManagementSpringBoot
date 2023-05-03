@@ -14,7 +14,7 @@ import com.rbt.pmt.entities.Employee;
 import com.rbt.pmt.entities.Project;
 
 
-//Controller for employees
+
 @Controller
 @RequestMapping("/employees")
 public class EmployeeController {
